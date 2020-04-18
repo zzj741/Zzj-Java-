@@ -1,2 +1,0 @@
-# Zzj-Java-
-Java Knowlegde 
